@@ -1,7 +1,14 @@
+ar
 
 
 
-collection = ["Thomas", "Noel", "Faraz"]
-=> ["Thomas", "Noel", "Faraz"]
-2.2.2 :017 > collection.class
-=> Array
+
+
+
+person = 
+{
+    name: "Person_1", "Person_2", "Person_3"
+    gender: 'male', 'female', 'male'
+    age: 40, 41, 42
+}
+end
