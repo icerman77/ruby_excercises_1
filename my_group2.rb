@@ -1,4 +1,4 @@
-person_1 = {name:"Jocke", age:45, gender:'male'}
+person_1 = {name:"Jocke", age:49, gender:'female'}
 person_2 = {name:"Filippa", age:40, gender:'female'}
 person_3 = {name:"Robban", age:30, gender:'male'}
 
